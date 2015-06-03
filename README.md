@@ -1,6 +1,7 @@
 # Decrypt PDFs
 
-Batch decrypt PDFs.
+Batch unlock PDFs whose author forbade copying.
+This script does not decrypt fully-encrypted PDFs which you can't read at all without the correct password.
 
 ## Dependencies
 
