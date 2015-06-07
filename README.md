@@ -1,4 +1,4 @@
-# Decrypt PDFs
+# Unlock-PDF
 
 Batch unlock PDFs whose author forbade copying.
 This script does not decrypt fully-encrypted PDFs which you can't read at all without the correct password.
